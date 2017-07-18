@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f247c89c-c835-4afa-9a67-4a618679bc6e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:63753/BillingWCF.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BillingWCF.xsd" MetadataType="Schema" ID="8ade9d2b-0825-4c64-8545-2cc68c066913" SourceId="1" SourceUrl="http://localhost:63753/BillingWCF.svc?xsd=xsd2" />
+    <MetadataFile FileName="BillingWCF.disco" MetadataType="Disco" ID="ce1406bb-7bef-4aa1-87af-c0b2c7cba6e7" SourceId="1" SourceUrl="http://localhost:63753/BillingWCF.svc?disco" />
+    <MetadataFile FileName="BillingWCF.wsdl" MetadataType="Wsdl" ID="46d128a7-ca33-4d03-a985-def3938509a0" SourceId="1" SourceUrl="http://localhost:63753/BillingWCF.svc?wsdl" />
+    <MetadataFile FileName="BillingWCF1.xsd" MetadataType="Schema" ID="ba95ac93-cf63-4fda-abc1-05b918398f32" SourceId="1" SourceUrl="http://localhost:63753/BillingWCF.svc?xsd=xsd3" />
+    <MetadataFile FileName="BillingWCF2.xsd" MetadataType="Schema" ID="9f8a23d8-a40c-452b-9824-8ed38b0bb572" SourceId="1" SourceUrl="http://localhost:63753/BillingWCF.svc?xsd=xsd0" />
+    <MetadataFile FileName="BillingWCF3.xsd" MetadataType="Schema" ID="115b0be9-5dd5-4cf4-b779-50e1e3edec6c" SourceId="1" SourceUrl="http://localhost:63753/BillingWCF.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
