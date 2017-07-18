@@ -1,0 +1,5 @@
+1. flipping glasses essentially. start both glasses, after 4-glass ends, start it again - we have 8 minutes. Before 4-glass runs out second time, the 7-glass runs out, so we flip it too. after 4-glass runs out second time, we will have 1-minute span in 7-glass (8-7=1). flip7-glass again, the remaining sand will measure remaining 1 minute.
+
+2. Upside down numbers, 87 - parking lot number hidden
+
+3. fill 7-liter jar, pour 5-liter jar with water in first jar. we got 2 liters in 7-liter jar. repeat three times, get 6 liters.
